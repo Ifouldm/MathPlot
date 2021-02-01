@@ -1,0 +1,22 @@
+{
+  "name": "mathplot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "math-plot"
+  },
+  "author": "Matthew Ifould",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-p5js": "^1.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-p5js": "^0.2.0"
+  }
+}
